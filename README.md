@@ -1,4 +1,4 @@
-# High-Level Overview and User Manual
+# Embedded TEENSY to read implement revolutions
 
 ## Project Overview
 
@@ -100,16 +100,3 @@ This file contains the primary logic:
 ## Licensing
 
 The software is provided under the MIT License, allowing free use, modification, and distribution with proper attribution. Refer to `LICENSE.md` for full details.
-
----
-
-## Future Enhancements
-
-- **Threading Support:**
-  - Placeholder for adding multi-threading functionality to handle more complex tasks.
-- **Extended Sensor Support:**
-  - Easily add new sensors by configuring additional pins and integrating new logic.
-
-This document provides a high-level overview and user manual to help you get started with the project efficiently.
-
-
